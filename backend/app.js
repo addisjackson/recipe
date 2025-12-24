@@ -1,31 +1,42 @@
-const express = require('express');
-const cors = require('cors');
-const helmet = require('helmet');
-const compression = require('compression');
-const routes = require('./routes/route');
+// app.js
+import express from "express";
+import cors from "cors";
+
+import {
+  getAllRecipes,
+  getRecipeById,
+  createRecipe,
+  updateRecipe,
+  deleteRecipe
+} from "./controllers/recipeController.js";
+
+import {
+  getAllFavorites,
+  toggleFavorite,
+  deleteFavorite
+} from "./controllers/favoritesController.js";
 
 const app = express();
 
-// Middlewares
-app.use(express.json()); // Parse incoming JSON requests
-app.use(express.urlencoded({ extended: true })); // Parse incoming URL-encoded requests
-app.use(cors()); // Enable Cross-Origin Resource Sharing
-app.use(helmet()); // Set various HTTP headers to secure the app
-app.use(compression()); // Compress HTTP responses to improve performance
+// Middleware
+app.use(cors());
+app.use(express.json());
 
-// Mounting routes
-app.use('/api', routes); // Mount the routes defined in routes.js under '/api'
+// ─────────────────────────────
+// RECIPE ROUTES
+// ─────────────────────────────
+app.get("/recipes", getAllRecipes);
+app.get("/recipes/:id", getRecipeById);
+app.post("/recipes", createRecipe);
+app.put("/recipes/:id", updateRecipe);
+app.delete("/recipes/:id", deleteRecipe);
 
-// Error handling middleware
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).send('Something went wrong!');
-});
+// ─────────────────────────────
+// FAVORITE ROUTES
+// ─────────────────────────────
+app.get("/favorites", getAllFavorites);
+app.post("/favorites/toggle", toggleFavorite);
+app.delete("/favorites/:id", deleteFavorite);
 
-// 404 Route
-app.use((req, res) => {
-  res.status(404).send('Route not found!');
-});
-
-
-module.exports = app; // Export the Express app for testing or other uses
+// Export the configured app
+export default app;

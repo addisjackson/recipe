@@ -1,4 +1,4 @@
- [
+ export default [
         {
             "vegetarian": true,
             "vegan": false,
@@ -14227,3 +14227,7 @@
             "spoonacularSourceUrl": "https://spoonacular.com/pan-seared-fresh-maine-diver-scallops-creamy-avocado-champagne-grape-salad-teriyaki-cabernet-butter-sauce-654430"
         }
     ]
+    
+
+
+    
