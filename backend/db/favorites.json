@@ -1,70 +1,8 @@
 [
   {
-    "title": "Balsamic Glazed Brussels Sprouts",
-    "image_url": "https://spoonacular.com/recipeImages/100015-556x370.jpg",
-    "ingredients": [
-      "brussels sprouts",
-      "olive oil",
-      "balsamic vinegar",
-      "honey",
-      "salt",
-      "pepper",
-      "garlic powder"
-    ],
-    "calories": "260 calories",
-    "protein": "7g of protein",
-    "fat": "12g of fat",
-    "cost": "$1.10 per serving",
-    "vitamins": "covers 38%",
-    "preparation_time": "30 minutes",
-    "spoonacular_rating": "score of 76%",
-    "similar_recipes": [
-      "https://spoonacular.com/recipes/balsamic-roasted-brussels-101033",
-      "https://spoonacular.com/recipes/honey-glazed-sprouts-101034",
-      "https://spoonacular.com/recipes/garlic-roasted-brussels-101035"
-    ],
-    "instructions": {
-      "step 1": "Toss halved brussels sprouts with olive oil, salt, pepper, and garlic powder.",
-      "step 2": "Roast at 425°F for 20 minutes.",
-      "step 3": "Whisk balsamic vinegar and honey.",
-      "step 4": "Drizzle glaze over sprouts and roast 5 more minutes."
-    }
-  },
-  {
-    "title": "batter should sizzle when it hits the pan",
-    "image_url": "",
-    "ingredients": [],
-    "calories": null,
-    "protein": null,
-    "fat": null,
-    "cost": null,
-    "vitamins": null,
-    "preparation_time": null,
-    "spoonacular_rating": null,
-    "similar_recipes": [],
-    "instructions": {}
-  },
-  {
-    "title": "Apple Hand Pies', 'https://spoonacular.com/recipeImages/632552-556x370.jpg', 'Apple Hand Pies could be just the <b>lacto ovo vegetarian</b> recipe you''ve been looking for. This hor d''oeuvre has <b>531 calories</b>",
-    "image_url": "<b>3g of protein</b>",
-    "ingredients": [],
-    "calories": null,
-    "protein": null,
-    "fat": "10g of fat",
-    "cost": null,
-    "vitamins": null,
-    "preparation_time": null,
-    "spoonacular_rating": null,
-    "similar_recipes": [],
-    "instructions": {
-      "step 1": "this recipe takes approximately <b>45 minutes</b>.",
-      "step 2": "Head to the store and pick up ground cinnamon."
-    }
-  },
-  {
     "id": 61,
     "title": "Creamy Broccoli Cheddar Soup",
-    "image_url": "https://spoonacular.com/recipeImages/100028-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/100028-556x370.jpg",
     "ingredients": [
       "broccoli",
       "cheddar cheese",
@@ -96,227 +34,6 @@
       "step 4": "Add broccoli and cook until tender.",
       "step 5": "Stir in cheddar until melted."
     }
-  },
-  {
-    "id": 12,
-    "healthScore": 25,
-    "aggregateLikes": 10,
-    "ingredients": [
-      "1 head of butter leaf lettuce",
-      "2 carrots, julienned",
-      "1/2 teaspoon ginger",
-      "3/4 cup hoisin sauce",
-      "Garlic Lime Hoisin Sauce",
-      "1 jicama",
-      "2 tablespoons lime",
-      "1 red bell pepper",
-      "12 rice paper sheets",
-      "Vegetarian Spring Roll",
-      "12 leaves of Thai basil",
-      "1 yellow bell pepper",
-      "1 teaspoon Saracha (or to taste)",
-      "1 teaspoon Saracha (or to taste)"
-    ],
-    "title": "Vegetarian Spring Rolls With Garlic Lime Sauce",
-    "readyInMinutes": 45,
-    "servings": 10,
-    "image": "https://spoonacular.com/recipeImages/664708-556x370.jpg",
-    "summary": "Vegetarian Spring Rolls With Garlic Lime Sauce might be just the <b>Vietnamese</b> recipe you are searching for. One serving contains <b>135 calories</b>, <b>3g of protein</b>, and <b>1g of fat</b>. This recipe serves 10. For <b>86 cents per serving</b>, this recipe <b>covers 11%</b> of your daily requirements of vitamins and minerals. 10 people have tried and liked this recipe. Head to the store and pick up butter leaf lettuce, carrots, bell pepper, and a few other things to make it today. A couple people really liked this hor d'oeuvre. It is a good option if you're following a <b>gluten free, dairy free, and fodmap friendly</b> diet. It will be a hit at your <b>Spring</b> event. It is brought to you by Foodista. From preparation to the plate, this recipe takes about <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%</b>, which is amazing. Try <a href=\"https://spoonacular.com/recipes/gluten-free-vegetarian-spring-rolls-with-thai-style-peanut-sauce-644859\">Gluten Free Vegetarian Spring Rolls With Thai-Style Peanut Sauce</a>, <a href=\"https://spoonacular.com/recipes/tuna-spring-rolls-with-lime-soy-sauce-89688\">Tuna Spring Rolls With Lime/soy Sauce</a>, and <a href=\"https://spoonacular.com/recipes/shrimp-spring-rolls-with-peanut-lime-dipping-sauce-5-points-548665\">Shrimp Spring Rolls with Peanut Lime Dipping Sauce – 5 Points</a> for similar recipes.",
-    "cuisines": [
-      "Vietnamese",
-      "Asian"
-    ],
-    "dishTypes": [
-      "fingerfood",
-      "antipasti",
-      "starter",
-      "snack",
-      "appetizer",
-      "antipasto",
-      "hor d'oeuvre"
-    ],
-    "diets": [
-      "gluten free",
-      "dairy free",
-      "fodmap friendly"
-    ],
-    "steps": [
-      {
-        "number": 1,
-        "step": "Julienne red and yellow bell pepper, carrots, jicama and Thai basil into 1/8in thin and 2 inch long strips.Fill a round pie pan or shallow plate with warm water. Dip one rice paper, making sure both sides are soaked."
-      },
-      {
-        "number": 2,
-        "step": "Lay on a flat flour towel cloth. Wait ten seconds for the paper to soft before using.Peel rice paper off of cloth."
-      },
-      {
-        "number": 3,
-        "step": "Place half of one butter leaf lettuce on top. Make sure to discard the ribbing."
-      },
-      {
-        "number": 4,
-        "step": "Add a thin layer of each vegetable and finish with a few pieces of Thai Basil.Starting at one end, fold the edge towards the middle. Repeat with parallel side. Rotate the spring roll by 90 degrees and roll form one end to the next."
-      },
-      {
-        "number": 5,
-        "step": "Cut each roll diagonally and place facing up on a serving platter.Garlic Lime Hoisin Sauce: Using a mortar and pestle crush garlic and ginger."
-      },
-      {
-        "number": 6,
-        "step": "Whisk in lime and Saracha."
-      },
-      {
-        "number": 7,
-        "step": "Add hoisin sauce and whisk to combine."
-      }
-    ],
-    "spoonacularSource": "https://spoonacular.com/vegetarian-spring-rolls-with-garlic-lime-sauce-664708"
-  },
-  {
-    "id": 10,
-    "healthScore": 0,
-    "aggregateLikes": 22,
-    "ingredients": [
-      "2 large apples, peeled and diced",
-      "1 tablespoon brown sugar",
-      "1 tablespoon brown sugar",
-      "4 ounces cream cheese, very cold and cubed",
-      "1 egg yolk",
-      "Dough",
-      "cups flour",
-      "1/4 teaspoon ground allspice",
-      "1/8 teaspoon ground cardamom",
-      "1/2 teaspoon ground cinnamon",
-      "1/2 teaspoon ground ginger",
-      "Juice of 1/2 a lemon",
-      "2 tablespoons maple syrup",
-      "2 tablespoons milk",
-      "1/8 cup powdered sugar",
-      "7 c.s sugar",
-      "1/2 cup unsalted butter, very cold and cubed",
-      "1 teaspoon Frangelico (or vanilla or rum)",
-      "1 teaspoon Frangelico (or vanilla or rum)"
-    ],
-    "title": "Apple Hand Pies",
-    "readyInMinutes": 45,
-    "servings": 16,
-    "image": "https://spoonacular.com/recipeImages/632552-556x370.jpg",
-    "summary": "Apple Hand Pies could be just the <b>lacto ovo vegetarian</b> recipe you've been looking for. This hor d'oeuvre has <b>531 calories</b>, <b>3g of protein</b>, and <b>10g of fat</b> per serving. This recipe serves 16 and costs 67 cents per serving. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Head to the store and pick up ground cinnamon, maple syrup, sugar, and a few other things to make it today. 22 people were impressed by this recipe. It is brought to you by Foodista. Overall, this recipe earns a <b>rather bad spoonacular score of 16%</b>. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/apple-hand-pies-797339\">Apple Hand Pies</a>, <a href=\"https://spoonacular.com/recipes/apple-hand-pies-706227\">Apple Hand Pies</a>, and <a href=\"https://spoonacular.com/recipes/apple-hand-pies-1745015\">Apple Hand Pies</a>.",
-    "cuisines": [],
-    "dishTypes": [
-      "antipasti",
-      "starter",
-      "dessert",
-      "snack",
-      "appetizer",
-      "antipasto",
-      "hor d'oeuvre"
-    ],
-    "diets": [
-      "lacto ovo vegetarian"
-    ],
-    "steps": [
-      {
-        "number": 1,
-        "step": "Start dough by whisking dry ingredients in a medium sized bowl."
-      },
-      {
-        "number": 2,
-        "step": "Add butter and incorporate with a pastry blender until coarse crumbs develop."
-      },
-      {
-        "number": 3,
-        "step": "Add cream cheese and incorporate well.Plop in egg yolk and stir with a fork until dough comes together into a ball.Turn dough out onto a floured surface and roll into a uniform ball. Slightly press flat with the palm of your hand and wrap in plastic wrap. Chill at least one hour.Once dough has chilled, set it on a floured surface and roll it out to about 10 x 1"
-      },
-      {
-        "number": 4,
-        "step": "Cut into sixteen even squares."
-      },
-      {
-        "number": 5,
-        "step": "Lay the dough squares on a parchment paper covered baking sheet and set in the freezer to chill.In a separate bowl, toss the apples with the lemon juice, maple syrup, spices and brown sugar. Make sure to cover all of the apple pieces.Take dough out of freezer. Drop about 1 tablespoon of filling into the center of each piece of dough. Fold one pointed edge towards its opposite corner to form a triangle.  Crimp edges with a fork along the seams. Repeat with all of the dough."
-      },
-      {
-        "number": 6,
-        "step": "Brush a little milk over the top of each turnover and sprinkle with extra sugar if desired. (Pop back into the freezer for a quick chill if the dough is soft.)."
-      },
-      {
-        "number": 7,
-        "step": "Bake in a preheated oven at 400 degrees for 20 minutes or until browned."
-      }
-    ],
-    "spoonacularSource": "https://spoonacular.com/apple-hand-pies-632552"
-  },
-  {
-    "id": 18,
-    "healthScore": 38,
-    "aggregateLikes": 2,
-    "ingredients": [
-      "3 strips of Bacon",
-      "1 Bell Pepper, any Color, Chopped",
-      "1 Bell Pepper, any Color, Chopped",
-      "3/4 cup Chicken, Seafood, or Veggie Broth",
-      "1 teaspoon of Cajun Spice",
-      "3 cloves of Garlic, Minced",
-      "1/2 teaspoon of Garlic Powder",
-      "3 Green Onions, Chopped",
-      "1/4 cup of Heavy Cream",
-      "1/2 teaspoon of Lemon Pepper",
-      "1 pd of Lobster",
-      "1 teaspoon of Old Bay Seasoning",
-      "1/2 teaspoon of Onion Powder",
-      "1/2 teaspoon of Oregano",
-      "Pepper to taste",
-      "Pepper to taste",
-      "1/4 tsp salt"
-    ],
-    "title": "Cajun Lobster Pasta",
-    "readyInMinutes": 45,
-    "servings": 1,
-    "image": "https://spoonacular.com/recipeImages/636732-556x370.jpg",
-    "summary": "Cajun Lobster Pasta could be just the <b>gluten free and primal</b> recipe you've been looking for. For <b>$5.4 per serving</b>, this recipe <b>covers 45%</b> of your daily requirements of vitamins and minerals. One serving contains <b>684 calories</b>, <b>35g of protein</b>, and <b>50g of fat</b>. This recipe serves 1. 2 people have made this recipe and would make it again. This recipe is typical of Cajun cuisine. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. A mixture of garlic powder, bell pepper, lemon pepper, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. It works well as a main course. Taking all factors into account, this recipe <b>earns a spoonacular score of 76%</b>, which is pretty good. <a href=\"https://spoonacular.com/recipes/cajun-lobster-pasta-1396967\">Cajun Lobster Pasta</a>, <a href=\"https://spoonacular.com/recipes/cajun-lobster-pasta-1614055\">Cajun Lobster Pasta</a>, and <a href=\"https://spoonacular.com/recipes/red-lobster-cajun-chicken-pasta-138824\">Red Lobster Cajun Chicken Pasta</a> are very similar to this recipe.",
-    "cuisines": [
-      "Creole",
-      "Cajun"
-    ],
-    "dishTypes": [
-      "side dish",
-      "lunch",
-      "main course",
-      "main dish",
-      "dinner"
-    ],
-    "diets": [
-      "gluten free",
-      "primal"
-    ],
-    "steps": [
-      {
-        "number": 1,
-        "step": "Cook up your bacon in a small frying pan over medium heat."
-      },
-      {
-        "number": 2,
-        "step": "Remove the bacon and drain off the fat, reserving about a tablespoon.To the pan add in your garlic and pepper. Cook it up on medium heat for about two to three minutes."
-      },
-      {
-        "number": 3,
-        "step": "Add in the green onions."
-      },
-      {
-        "number": 4,
-        "step": "Let cook for an additional minute.Chop up your bacon and add it to the pan along with the broth. Love me some bacon.Now add in your spices; the cajun, old bay, onion powder, garlic powder, lemon pepper, oregano, and pepper.Allow the mixture to heat back up and then turn your heat down to medium low."
-      },
-      {
-        "number": 5,
-        "step": "Add in your lobster and allow it about three to five minutes to heat up completely.Last up, add in your cream."
-      },
-      {
-        "number": 6,
-        "step": "Serve your finished lobster over fresh cooked pasta with a few pinches of parmesan cheese and a sprinkle of chopped green onions over the top."
-      }
-    ],
-    "spoonacularSource": "https://spoonacular.com/cajun-lobster-pasta-636732"
   },
   {
     "id": 29,
@@ -355,83 +72,6 @@
       }
     ],
     "spoonacularSource": "https://spoonacular.com/arame-edamame-cucumber-salad-632693"
-  },
-  {
-    "id": 6,
-    "healthScore": 13,
-    "aggregateLikes": 3,
-    "ingredients": [
-      "6 skin-on chicken drumsticks",
-      "1 cup fresh blackberries, rinsed",
-      "¼ cup balsamic vinegar",
-      "¼ cup demerara sugar",
-      "1 ½ tbsp fresh rosemary",
-      "2 tbsp butter",
-      "2 tbsp whole grain mustard",
-      "Salt and pepper to taste"
-    ],
-    "title": "Blackberry Balsamic Drumsticks",
-    "readyInMinutes": 45,
-    "servings": 2,
-    "image": "https://spoonacular.com/recipeImages/635182-556x370.png",
-    "summary": "Blackberry Balsamic Drumsticks requires approximately <b>45 minutes</b> from start to finish. This gluten free recipe serves 2 and costs <b>$2.55 per serving</b>. One portion of this dish contains approximately <b>42g of protein</b>, <b>34g of fat</b>, and a total of <b>633 calories</b>. 3 people were impressed by this recipe. It is brought to you by Foodista. It works well as a main course. If you have demerara sugar, rosemary, balsamic vinegar, and a few other ingredients on hand, you can make it. Overall, this recipe earns a <b>pretty good spoonacular score of 57%</b>. <a href=\"https://spoonacular.com/recipes/blackberry-beet-salad-with-blackberry-balsamic-dressing-721132\">Blackberry Beet Salad with Blackberry Balsamic Dressing</a>, <a href=\"https://spoonacular.com/recipes/balsamic-honey-chicken-drumsticks-633955\">Balsamic-Honey Chicken Drumsticks</a>, and <a href=\"https://spoonacular.com/recipes/peach-apricot-balsamic-glazed-drumsticks-577614\">Peach, Apricot & Balsamic Glazed Drumsticks</a> are very similar to this recipe.",
-    "cuisines": [],
-    "dishTypes": [
-      "lunch",
-      "main course",
-      "main dish",
-      "dinner"
-    ],
-    "diets": [
-      "gluten free"
-    ],
-    "steps": [
-      {
-        "number": 1,
-        "step": "Place blackberries, butter, water, rosemary, sugar and vinegar in a small saucepan."
-      },
-      {
-        "number": 2,
-        "step": "Cook over medium high heat stirring occasionally until slightly reduced.  About 10 -15 minutes."
-      },
-      {
-        "number": 3,
-        "step": "Remove from heat and stir in mustard and salt and pepper."
-      },
-      {
-        "number": 4,
-        "step": "Leave marinade to cool."
-      },
-      {
-        "number": 5,
-        "step": "Place drumsticks in a large zip lock bag,"
-      },
-      {
-        "number": 6,
-        "step": "Pour cooled marinade over top and seal.  Toss to coat."
-      },
-      {
-        "number": 7,
-        "step": "Place mixture in the fridge and marinate for 24 hours."
-      },
-      {
-        "number": 8,
-        "step": "When ready to cook, preheat oven to 375"
-      },
-      {
-        "number": 9,
-        "step": "Arrange drumsticks on a cookie sheet coated in tin foil."
-      },
-      {
-        "number": 10,
-        "step": "Cook for 25 minutes, turning once."
-      },
-      {
-        "number": 11,
-        "step": "Serve hot with preferred side."
-      }
-    ],
-    "spoonacularSource": "https://spoonacular.com/blackberry-balsamic-drumsticks-635182"
   },
   {
     "id": 17,
@@ -519,5 +159,353 @@
       }
     ],
     "spoonacularSource": "https://spoonacular.com/mushroom-tarragon-fish-652708"
+  },
+  {
+    "id": 18,
+    "healthScore": 38,
+    "aggregateLikes": 2,
+    "ingredients": [
+      "3 strips of Bacon",
+      "1 Bell Pepper, any Color, Chopped",
+      "1 Bell Pepper, any Color, Chopped",
+      "3/4 cup Chicken, Seafood, or Veggie Broth",
+      "1 teaspoon of Cajun Spice",
+      "3 cloves of Garlic, Minced",
+      "1/2 teaspoon of Garlic Powder",
+      "3 Green Onions, Chopped",
+      "1/4 cup of Heavy Cream",
+      "1/2 teaspoon of Lemon Pepper",
+      "1 pd of Lobster",
+      "1 teaspoon of Old Bay Seasoning",
+      "1/2 teaspoon of Onion Powder",
+      "1/2 teaspoon of Oregano",
+      "Pepper to taste",
+      "Pepper to taste",
+      "1/4 tsp salt"
+    ],
+    "title": "Cajun Lobster Pasta",
+    "readyInMinutes": 45,
+    "servings": 1,
+    "image": "https://spoonacular.com/recipeImages/636732-556x370.jpg",
+    "summary": "Cajun Lobster Pasta could be just the <b>gluten free and primal</b> recipe you've been looking for. For <b>$5.4 per serving</b>, this recipe <b>covers 45%</b> of your daily requirements of vitamins and minerals. One serving contains <b>684 calories</b>, <b>35g of protein</b>, and <b>50g of fat</b>. This recipe serves 1. 2 people have made this recipe and would make it again. This recipe is typical of Cajun cuisine. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. A mixture of garlic powder, bell pepper, lemon pepper, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. It works well as a main course. Taking all factors into account, this recipe <b>earns a spoonacular score of 76%</b>, which is pretty good. <a href=\"https://spoonacular.com/recipes/cajun-lobster-pasta-1396967\">Cajun Lobster Pasta</a>, <a href=\"https://spoonacular.com/recipes/cajun-lobster-pasta-1614055\">Cajun Lobster Pasta</a>, and <a href=\"https://spoonacular.com/recipes/red-lobster-cajun-chicken-pasta-138824\">Red Lobster Cajun Chicken Pasta</a> are very similar to this recipe.",
+    "cuisines": [
+      "Creole",
+      "Cajun"
+    ],
+    "dishTypes": [
+      "side dish",
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "gluten free",
+      "primal"
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "step": "Cook up your bacon in a small frying pan over medium heat."
+      },
+      {
+        "number": 2,
+        "step": "Remove the bacon and drain off the fat, reserving about a tablespoon.To the pan add in your garlic and pepper. Cook it up on medium heat for about two to three minutes."
+      },
+      {
+        "number": 3,
+        "step": "Add in the green onions."
+      },
+      {
+        "number": 4,
+        "step": "Let cook for an additional minute.Chop up your bacon and add it to the pan along with the broth. Love me some bacon.Now add in your spices; the cajun, old bay, onion powder, garlic powder, lemon pepper, oregano, and pepper.Allow the mixture to heat back up and then turn your heat down to medium low."
+      },
+      {
+        "number": 5,
+        "step": "Add in your lobster and allow it about three to five minutes to heat up completely.Last up, add in your cream."
+      },
+      {
+        "number": 6,
+        "step": "Serve your finished lobster over fresh cooked pasta with a few pinches of parmesan cheese and a sprinkle of chopped green onions over the top."
+      }
+    ],
+    "spoonacularSource": "https://spoonacular.com/cajun-lobster-pasta-636732"
+  },
+  {
+    "id": 10,
+    "healthScore": 0,
+    "aggregateLikes": 22,
+    "ingredients": [
+      "2 large apples, peeled and diced",
+      "1 tablespoon brown sugar",
+      "1 tablespoon brown sugar",
+      "4 ounces cream cheese, very cold and cubed",
+      "1 egg yolk",
+      "Dough",
+      "cups flour",
+      "1/4 teaspoon ground allspice",
+      "1/8 teaspoon ground cardamom",
+      "1/2 teaspoon ground cinnamon",
+      "1/2 teaspoon ground ginger",
+      "Juice of 1/2 a lemon",
+      "2 tablespoons maple syrup",
+      "2 tablespoons milk",
+      "1/8 cup powdered sugar",
+      "7 c.s sugar",
+      "1/2 cup unsalted butter, very cold and cubed",
+      "1 teaspoon Frangelico (or vanilla or rum)",
+      "1 teaspoon Frangelico (or vanilla or rum)"
+    ],
+    "title": "Apple Hand Pies",
+    "readyInMinutes": 45,
+    "servings": 16,
+    "image": "https://spoonacular.com/recipeImages/632552-556x370.jpg",
+    "summary": "Apple Hand Pies could be just the <b>lacto ovo vegetarian</b> recipe you've been looking for. This hor d'oeuvre has <b>531 calories</b>, <b>3g of protein</b>, and <b>10g of fat</b> per serving. This recipe serves 16 and costs 67 cents per serving. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Head to the store and pick up ground cinnamon, maple syrup, sugar, and a few other things to make it today. 22 people were impressed by this recipe. It is brought to you by Foodista. Overall, this recipe earns a <b>rather bad spoonacular score of 16%</b>. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/apple-hand-pies-797339\">Apple Hand Pies</a>, <a href=\"https://spoonacular.com/recipes/apple-hand-pies-706227\">Apple Hand Pies</a>, and <a href=\"https://spoonacular.com/recipes/apple-hand-pies-1745015\">Apple Hand Pies</a>.",
+    "cuisines": [],
+    "dishTypes": [
+      "antipasti",
+      "starter",
+      "dessert",
+      "snack",
+      "appetizer",
+      "antipasto",
+      "hor d'oeuvre"
+    ],
+    "diets": [
+      "lacto ovo vegetarian"
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "step": "Start dough by whisking dry ingredients in a medium sized bowl."
+      },
+      {
+        "number": 2,
+        "step": "Add butter and incorporate with a pastry blender until coarse crumbs develop."
+      },
+      {
+        "number": 3,
+        "step": "Add cream cheese and incorporate well.Plop in egg yolk and stir with a fork until dough comes together into a ball.Turn dough out onto a floured surface and roll into a uniform ball. Slightly press flat with the palm of your hand and wrap in plastic wrap. Chill at least one hour.Once dough has chilled, set it on a floured surface and roll it out to about 10 x 1"
+      },
+      {
+        "number": 4,
+        "step": "Cut into sixteen even squares."
+      },
+      {
+        "number": 5,
+        "step": "Lay the dough squares on a parchment paper covered baking sheet and set in the freezer to chill.In a separate bowl, toss the apples with the lemon juice, maple syrup, spices and brown sugar. Make sure to cover all of the apple pieces.Take dough out of freezer. Drop about 1 tablespoon of filling into the center of each piece of dough. Fold one pointed edge towards its opposite corner to form a triangle.  Crimp edges with a fork along the seams. Repeat with all of the dough."
+      },
+      {
+        "number": 6,
+        "step": "Brush a little milk over the top of each turnover and sprinkle with extra sugar if desired. (Pop back into the freezer for a quick chill if the dough is soft.)."
+      },
+      {
+        "number": 7,
+        "step": "Bake in a preheated oven at 400 degrees for 20 minutes or until browned."
+      }
+    ],
+    "spoonacularSource": "https://spoonacular.com/apple-hand-pies-632552"
+  },
+  {
+    "id": 12,
+    "healthScore": 25,
+    "aggregateLikes": 10,
+    "ingredients": [
+      "1 head of butter leaf lettuce",
+      "2 carrots, julienned",
+      "1/2 teaspoon ginger",
+      "3/4 cup hoisin sauce",
+      "Garlic Lime Hoisin Sauce",
+      "1 jicama",
+      "2 tablespoons lime",
+      "1 red bell pepper",
+      "12 rice paper sheets",
+      "Vegetarian Spring Roll",
+      "12 leaves of Thai basil",
+      "1 yellow bell pepper",
+      "1 teaspoon Saracha (or to taste)",
+      "1 teaspoon Saracha (or to taste)"
+    ],
+    "title": "Vegetarian Spring Rolls With Garlic Lime Sauce",
+    "readyInMinutes": 45,
+    "servings": 10,
+    "image": "https://spoonacular.com/recipeImages/664708-556x370.jpg",
+    "summary": "Vegetarian Spring Rolls With Garlic Lime Sauce might be just the <b>Vietnamese</b> recipe you are searching for. One serving contains <b>135 calories</b>, <b>3g of protein</b>, and <b>1g of fat</b>. This recipe serves 10. For <b>86 cents per serving</b>, this recipe <b>covers 11%</b> of your daily requirements of vitamins and minerals. 10 people have tried and liked this recipe. Head to the store and pick up butter leaf lettuce, carrots, bell pepper, and a few other things to make it today. A couple people really liked this hor d'oeuvre. It is a good option if you're following a <b>gluten free, dairy free, and fodmap friendly</b> diet. It will be a hit at your <b>Spring</b> event. It is brought to you by Foodista. From preparation to the plate, this recipe takes about <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%</b>, which is amazing. Try <a href=\"https://spoonacular.com/recipes/gluten-free-vegetarian-spring-rolls-with-thai-style-peanut-sauce-644859\">Gluten Free Vegetarian Spring Rolls With Thai-Style Peanut Sauce</a>, <a href=\"https://spoonacular.com/recipes/tuna-spring-rolls-with-lime-soy-sauce-89688\">Tuna Spring Rolls With Lime/soy Sauce</a>, and <a href=\"https://spoonacular.com/recipes/shrimp-spring-rolls-with-peanut-lime-dipping-sauce-5-points-548665\">Shrimp Spring Rolls with Peanut Lime Dipping Sauce – 5 Points</a> for similar recipes.",
+    "cuisines": [
+      "Vietnamese",
+      "Asian"
+    ],
+    "dishTypes": [
+      "fingerfood",
+      "antipasti",
+      "starter",
+      "snack",
+      "appetizer",
+      "antipasto",
+      "hor d'oeuvre"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free",
+      "fodmap friendly"
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "step": "Julienne red and yellow bell pepper, carrots, jicama and Thai basil into 1/8in thin and 2 inch long strips.Fill a round pie pan or shallow plate with warm water. Dip one rice paper, making sure both sides are soaked."
+      },
+      {
+        "number": 2,
+        "step": "Lay on a flat flour towel cloth. Wait ten seconds for the paper to soft before using.Peel rice paper off of cloth."
+      },
+      {
+        "number": 3,
+        "step": "Place half of one butter leaf lettuce on top. Make sure to discard the ribbing."
+      },
+      {
+        "number": 4,
+        "step": "Add a thin layer of each vegetable and finish with a few pieces of Thai Basil.Starting at one end, fold the edge towards the middle. Repeat with parallel side. Rotate the spring roll by 90 degrees and roll form one end to the next."
+      },
+      {
+        "number": 5,
+        "step": "Cut each roll diagonally and place facing up on a serving platter.Garlic Lime Hoisin Sauce: Using a mortar and pestle crush garlic and ginger."
+      },
+      {
+        "number": 6,
+        "step": "Whisk in lime and Saracha."
+      },
+      {
+        "number": 7,
+        "step": "Add hoisin sauce and whisk to combine."
+      }
+    ],
+    "spoonacularSource": "https://spoonacular.com/vegetarian-spring-rolls-with-garlic-lime-sauce-664708"
+  },
+  {
+    "id": 6,
+    "healthScore": 13,
+    "aggregateLikes": 3,
+    "ingredients": [
+      "6 skin-on chicken drumsticks",
+      "1 cup fresh blackberries, rinsed",
+      "¼ cup balsamic vinegar",
+      "¼ cup demerara sugar",
+      "1 ½ tbsp fresh rosemary",
+      "2 tbsp butter",
+      "2 tbsp whole grain mustard",
+      "Salt and pepper to taste"
+    ],
+    "title": "Blackberry Balsamic Drumsticks",
+    "readyInMinutes": 45,
+    "servings": 2,
+    "image": "https://spoonacular.com/recipeImages/635182-556x370.png",
+    "summary": "Blackberry Balsamic Drumsticks requires approximately <b>45 minutes</b> from start to finish. This gluten free recipe serves 2 and costs <b>$2.55 per serving</b>. One portion of this dish contains approximately <b>42g of protein</b>, <b>34g of fat</b>, and a total of <b>633 calories</b>. 3 people were impressed by this recipe. It is brought to you by Foodista. It works well as a main course. If you have demerara sugar, rosemary, balsamic vinegar, and a few other ingredients on hand, you can make it. Overall, this recipe earns a <b>pretty good spoonacular score of 57%</b>. <a href=\"https://spoonacular.com/recipes/blackberry-beet-salad-with-blackberry-balsamic-dressing-721132\">Blackberry Beet Salad with Blackberry Balsamic Dressing</a>, <a href=\"https://spoonacular.com/recipes/balsamic-honey-chicken-drumsticks-633955\">Balsamic-Honey Chicken Drumsticks</a>, and <a href=\"https://spoonacular.com/recipes/peach-apricot-balsamic-glazed-drumsticks-577614\">Peach, Apricot & Balsamic Glazed Drumsticks</a> are very similar to this recipe.",
+    "cuisines": [],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "gluten free"
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "step": "Place blackberries, butter, water, rosemary, sugar and vinegar in a small saucepan."
+      },
+      {
+        "number": 2,
+        "step": "Cook over medium high heat stirring occasionally until slightly reduced.  About 10 -15 minutes."
+      },
+      {
+        "number": 3,
+        "step": "Remove from heat and stir in mustard and salt and pepper."
+      },
+      {
+        "number": 4,
+        "step": "Leave marinade to cool."
+      },
+      {
+        "number": 5,
+        "step": "Place drumsticks in a large zip lock bag,"
+      },
+      {
+        "number": 6,
+        "step": "Pour cooled marinade over top and seal.  Toss to coat."
+      },
+      {
+        "number": 7,
+        "step": "Place mixture in the fridge and marinate for 24 hours."
+      },
+      {
+        "number": 8,
+        "step": "When ready to cook, preheat oven to 375"
+      },
+      {
+        "number": 9,
+        "step": "Arrange drumsticks on a cookie sheet coated in tin foil."
+      },
+      {
+        "number": 10,
+        "step": "Cook for 25 minutes, turning once."
+      },
+      {
+        "number": 11,
+        "step": "Serve hot with preferred side."
+      }
+    ],
+    "spoonacularSource": "https://spoonacular.com/blackberry-balsamic-drumsticks-635182"
+  },
+  {
+    "id": 2,
+    "healthScore": 3,
+    "aggregateLikes": 7,
+    "ingredients": [
+      "Coarse salt, to taste",
+      "1/2 cup crumbled goat cheese",
+      "1/4 cup prepared olive tapenade (or another type, like artichoke tapenade)",
+      "1/4 cup toasted pine nuts",
+      "1 package (2 sheets) prepared puff pastry dough, thawed"
+    ],
+    "title": "Savory Olive & Goat Cheese Palmiers",
+    "readyInMinutes": 45,
+    "servings": 16,
+    "image": "https://spoonacular.com/recipeImages/659479-556x370.jpg",
+    "summary": "Savory Olive & Goat Cheese Palmiers might be just the hor d'oeuvre you are searching for. One serving contains <b>202 calories</b>, <b>4g of protein</b>, and <b>15g of fat</b>. This recipe serves 16. For <b>77 cents per serving</b>, this recipe <b>covers 4%</b> of your daily requirements of vitamins and minerals. 7 people have tried and liked this recipe. This recipe from Foodista requires coarse salt, goat cheese, olive tapenade, and puff pastry dough. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 33%</b>. This score is rather bad. <a href=\"https://spoonacular.com/recipes/savory-cheese-palmiers-756417\">Savory Cheese Palmiers</a>, <a href=\"https://spoonacular.com/recipes/red-pepper-walnut-goats-cheese-palmiers-215468\">Red pepper, walnut & goat’s cheese palmiers</a>, and <a href=\"https://spoonacular.com/recipes/red-pepper-walnut-goats-cheese-palmiers-1602549\">Red pepper, walnut & goat’s cheese palmiers</a> are very similar to this recipe.",
+    "cuisines": [],
+    "dishTypes": [
+      "antipasti",
+      "starter",
+      "snack",
+      "appetizer",
+      "antipasto",
+      "hor d'oeuvre"
+    ],
+    "diets": [],
+    "steps": [
+      {
+        "number": 1,
+        "step": "Allow the puff pastry dough to thaw, according to the package directions.Lightly flour a flat work surface."
+      },
+      {
+        "number": 2,
+        "step": "Place one sheet of the dough on top of the other on the floured surface, and gently roll it out to a 9x12-inch shape that is about 1/4-inch thick. (You could use each sheet of dough individually, if you prefer.)"
+      },
+      {
+        "number": 3,
+        "step": "Spread the olive tapenade over the dough, followed by the crumbled goat cheese. Top with the toasted pine nuts.Start by rolling the short ends of the dough toward each other until the meet in the middle.Tightly wrap the rolled dough in plastic wrap and refrigerate for about 30 minutes.Preheat your oven to 425 degrees F.Line a baking sheet with parchment or a silicone baking mat.Unwrap the dough and use a serrated knife to slice the rolled dough into 1/4-inch slices, and put them on the baking sheet about 2 inches apart."
+      },
+      {
+        "number": 4,
+        "step": "Sprinkle the tops with the coarse salt and bake for 12-14 minutes, or until they are just lightly golden."
+      },
+      {
+        "number": 5,
+        "step": "Serve warm"
+      }
+    ],
+    "spoonacularSource": "https://spoonacular.com/savory-olive-goat-cheese-palmiers-659479"
   }
 ]

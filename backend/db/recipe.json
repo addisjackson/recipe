@@ -1,7 +1,7 @@
 [
   {
     "title": "Home made coffee ice cream",
-    "image_url": "https://spoonacular.com/recipeImages/646868-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/646868-556x370.jpg",
     "calories": "485 calories",
     "protein": "8g of protein",
     "fat": "36g of fat",
@@ -18,7 +18,7 @@
   },
   {
     "title": "Savory Olive & Goat Cheese Palmiers', 'https://spoonacular.com/recipeImages/659479-556x370.jpg', 'Savory Olive & Goat Cheese Palmiers might be just the hor d''oeuvre you are searching for. One serving contains <b>202 calories</b>",
-    "image_url": "<b>4g of protein</b>",
+    "image": "<b>4g of protein</b>",
     "ingredients": [
       "77 cents per serving"
     ],
@@ -55,7 +55,7 @@
   },
   {
     "title": "Deviled Eggs With Crab",
-    "image_url": "https://spoonacular.com/recipeImages/641461-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/641461-556x370.jpg",
     "ingredients": [
       "reasonably priced"
     ],
@@ -80,7 +80,7 @@
   },
   {
     "title": "Chinese Style Chicken and Noodle Stir Fry",
-    "image_url": "https://spoonacular.com/recipeImages/638714-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/638714-556x370.jpg",
     "ingredients": [],
     "calories": "469 calories",
     "protein": "31g of protein",
@@ -98,7 +98,7 @@
   },
   {
     "title": "Blackberry Balsamic Drumsticks",
-    "image_url": "https://spoonacular.com/recipeImages/635182-556x370.png",
+    "image": "https://spoonacular.com/recipeImages/635182-556x370.png",
     "ingredients": [],
     "calories": "633 calories",
     "protein": "42g of protein",
@@ -130,7 +130,7 @@
   },
   {
     "title": "La Bella Italian Turkey Burger",
-    "image_url": "https://spoonacular.com/recipeImages/649141-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/649141-556x370.jpg",
     "ingredients": [],
     "calories": "846 calories",
     "protein": "64g of protein",
@@ -156,7 +156,7 @@
   },
   {
     "title": "Southern Style Green Bean",
-    "image_url": "https://spoonacular.com/recipeImages/715515-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/715515-556x370.jpg",
     "ingredients": [],
     "calories": "487 calories",
     "protein": "9g of protein",
@@ -180,7 +180,7 @@
   },
   {
     "title": "Easy Slow Cooker Artichoke Garlic Chicken",
-    "image_url": "https://spoonacular.com/recipeImages/642093-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/642093-556x370.jpg",
     "ingredients": [
       "dairy free"
     ],
@@ -208,7 +208,7 @@
   },
   {
     "title": "Apple Hand Pies",
-    "image_url":"https://spoonacular.com/recipeImages/632552-556x370.jpg",
+    "image":"https://spoonacular.com/recipeImages/632552-556x370.jpg",
     "ingredients": [],
     "calories": "531 calories",
     "protein": "3g of protein",
@@ -225,7 +225,7 @@
   },
   {
     "title": "Zucchini Ribbon and Ricotta Pizza",
-    "image_url": "https://spoonacular.com/recipeImages/665779-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/665779-556x370.jpg",
     "ingredients": [],
     "calories": "1983 calories",
     "protein": "68g of protein",
@@ -252,7 +252,7 @@
   },
   {
     "title": "Vegetarian Spring Rolls With Garlic Lime Sauce",     
-    "image_url": "https://spoonacular.com/recipeImages/664708-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/664708-556x370.jpg",
     "ingredients": [
       "Vietnamese",
       "86 cents per serving",
@@ -284,7 +284,7 @@
   },
   {
     "title": "Skinny Green Monster Smoothie",
-    "image_url": "https://spoonacular.com/recipeImages/660227-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/660227-556x370.jpg",
     "ingredients": [
       "gluten free",
       "Halloween"
@@ -307,7 +307,7 @@
   },
   {
     "title": "Square Deviled Eggs",
-    "image_url": "https://spoonacular.com/recipeImages/661447-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/661447-556x370.jpg",
     "ingredients": [],
     "calories": 212,
     "protein": "19g of protein",
@@ -325,7 +325,7 @@
   },
   {
     "title": "See note in About section on where to purchase",     
-    "image_url": "",
+    "image": "",
     "ingredients": [],
     "calories": null,
     "protein": null,
@@ -339,7 +339,7 @@
   },
   {
     "title": "Hungarian Cottage-Cheese Biscuits (Túrós Pogácsa",   
-    "image_url": "https://spoonacular.com/recipeImages/647654-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/647654-556x370.jpg",
     "ingredients": [],
     "calories": null,
     "protein": null,
@@ -353,7 +353,7 @@
   },
   {
     "title": "Túrós Pogácsa",
-    "image_url": "",
+    "image": "",
     "ingredients": [],
     "calories": null,
     "protein": null,
@@ -367,7 +367,7 @@
   },
   {
     "title": "Mediterranean eggplants",
-    "image_url": "https://spoonacular.com/recipeImages/651407-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/651407-556x370.jpg",
     "ingredients": [],
     "calories": "679 calories",
     "protein": "30g of protein",
@@ -381,7 +381,7 @@
   },
   {
     "title": "Cranberry-Ginger Oatmeal With Toasted Hazelnuts",    
-    "image_url": "https://spoonacular.com/recipeImages/640443-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/640443-556x370.jpg",
     "ingredients": [
       "gluten free, dairy free, lacto ovo vegetarian, and fodmap friendly"
     ],
@@ -404,7 +404,7 @@
   },
   {
     "title": "Cajun Lobster Pasta",
-    "image_url": "https://spoonacular.com/recipeImages/636732-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/636732-556x370.jpg",
     "ingredients": [
       "gluten free and primal"
     ],
@@ -433,7 +433,7 @@
   },
   {
     "title": "Blood Orange Margarita",
-    "image_url": "https://spoonacular.com/recipeImages/635315-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/635315-556x370.jpg",
     "ingredients": [
       "pricey"
     ],
@@ -461,7 +461,7 @@
   },
   {
     "title": "Chocolate, Pb and Banana Oats",
-    "image_url": "https://spoonacular.com/recipeImages/639249-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/639249-556x370.jpg",
     "ingredients": [
       "43 cents per serving",
       "gluten free and lacto ovo vegetarian"
@@ -486,7 +486,7 @@
   },
   {
     "title": "Colorful Red Quinoa Not So Tabbouleh Salad",
-    "image_url": "https://spoonacular.com/recipeImages/639950-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/639950-556x370.jpg",
     "ingredients": [
       "gluten free, dairy free, lacto ovo vegetarian, and vegan"   
     ],
@@ -532,7 +532,7 @@
   },
   {
     "title": "Quick N'' Easy Basil Pesto",
-    "image_url": "https://spoonacular.com/recipeImages/657610-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/657610-556x370.jpg",
     "ingredients": [],
     "calories": "155 calories",
     "protein": "5g of protein",
@@ -554,7 +554,7 @@
   },
   {
     "title": "Wholemeal Cake",
-    "image_url": "https://spoonacular.com/recipeImages/665303-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/665303-556x370.jpg",
     "protein": "9g of protein",
     "calories": "362 calories",
     "fat": null,
@@ -571,7 +571,7 @@
   },
   {
     "title": "Greek Inspired Spring Omelet",
-    "image_url": "https://spoonacular.com/recipeImages/645315-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/645315-556x370.jpg",
     "ingredients": [
       "Spring"
     ],
@@ -597,7 +597,7 @@
   },
   {
     "title": "Doughnuts",
-    "image_url": "https://spoonacular.com/recipeImages/716276-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/716276-556x370.jpg",
     "ingredients": [],
     "calories": "445 calories",
     "protein": null,
@@ -613,7 +613,7 @@
   },
   {
     "title": "Stuffed mushrooms and Chow Mein noodles",
-    "image_url": "https://spoonacular.com/recipeImages/662054-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/662054-556x370.jpg",
     "ingredients": [],
     "calories": "1345 calories",
     "protein": "62g of protein",
@@ -649,7 +649,7 @@
   },
   {
     "title": "Minced Beef Curry",
-    "image_url": "https://spoonacular.com/recipeImages/651911-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/651911-556x370.jpg",
     "ingredients": [],
     "calories": null,
     "protein": null,
@@ -665,7 +665,7 @@
   },
   {
     "title": "Arame Edamame Cucumber Salad",
-    "image_url": "https://spoonacular.com/recipeImages/632693-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/632693-556x370.jpg",
     "ingredients": [
       "34 cents per serving",
       "gluten free, dairy free, lacto ovo vegetarian, and vegan"   
@@ -692,7 +692,7 @@
   },
   {
     "title": "Pan Seared Fresh Maine Diver Scallops Creamy Avocado Champagne Grape Salad Teriyaki Cabernet Butter Sauce", 
-    "image_url": "https://spoonacular.com/recipeImages/654430-556x370.jpg",
+    "image": "https://spoonacular.com/recipeImages/654430-556x370.jpg",
     "ingredients": [],
     "calories": "574 calories",
     "protein": "9g of protein",
@@ -706,7 +706,7 @@
   },
   {
   "title": "Roasted Lemon Herb Chicken",
-  "image_url": "https://spoonacular.com/recipeImages/100001-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100001-556x370.jpg",
   "ingredients": [
     "whole chicken",
     "lemon",
@@ -743,7 +743,7 @@
 },
 {
   "title": "Creamy Tomato Basil Penne",
-  "image_url": "https://spoonacular.com/recipeImages/100002-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100002-556x370.jpg",
   "ingredients": [
     "penne pasta",
     "crushed tomatoes",
@@ -777,7 +777,7 @@
 },
 {
   "title": "Honey Ginger Glazed Salmon",
-  "image_url": "https://spoonacular.com/recipeImages/100003-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100003-556x370.jpg",
   "ingredients": [
     "salmon fillets",
     "honey",
@@ -812,7 +812,7 @@
 },
 {
   "title": "Rustic Vegetable Barley Soup",
-  "image_url": "https://spoonacular.com/recipeImages/100004-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100004-556x370.jpg",
   "ingredients": [
     "pearl barley",
     "carrots",
@@ -846,7 +846,7 @@
 },
 {
   "title": "Maple Pecan Breakfast Muffins",
-  "image_url": "https://spoonacular.com/recipeImages/100005-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100005-556x370.jpg",
   "ingredients": [
     "all-purpose flour",
     "baking powder",
@@ -883,7 +883,7 @@
 },
 {
   "title": "Garlic Butter Shrimp Skillet",
-  "image_url": "https://spoonacular.com/recipeImages/100006-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100006-556x370.jpg",
   "ingredients": [
     "shrimp",
     "garlic",
@@ -916,7 +916,7 @@
 },
 {
   "title": "Hearty Beef and Potato Stew",
-  "image_url": "https://spoonacular.com/recipeImages/100007-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100007-556x370.jpg",
   "ingredients": [
     "beef stew meat",
     "potatoes",
@@ -951,7 +951,7 @@
 },
 {
   "title": "Spinach Feta Stuffed Chicken",
-  "image_url": "https://spoonacular.com/recipeImages/100008-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100008-556x370.jpg",
   "ingredients": [
     "chicken breasts",
     "spinach",
@@ -984,7 +984,7 @@
 },
 {
   "title": "Sweet Potato Black Bean Chili",
-  "image_url": "https://spoonacular.com/recipeImages/100009-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100009-556x370.jpg",
   "ingredients": [
     "sweet potatoes",
     "black beans",
@@ -1018,7 +1018,7 @@
 },
 {
   "title": "Crispy Parmesan Crusted Tilapia",
-  "image_url": "https://spoonacular.com/recipeImages/100010-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100010-556x370.jpg",
   "ingredients": [
     "tilapia fillets",
     "parmesan cheese",
@@ -1051,7 +1051,7 @@
 
 {
   "title": "Butternut Squash Sage Risotto",
-  "image_url": "https://spoonacular.com/recipeImages/100011-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100011-556x370.jpg",
   "ingredients": [
     "arborio rice",
     "butternut squash",
@@ -1088,7 +1088,7 @@
 },
 {
   "title": "Mediterranean Chickpea Salad",
-  "image_url": "https://spoonacular.com/recipeImages/100012-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100012-556x370.jpg",
   "ingredients": [
     "chickpeas",
     "cucumber",
@@ -1122,7 +1122,7 @@
 },
 {
   "title": "Herb Crusted Pork Tenderloin",
-  "image_url": "https://spoonacular.com/recipeImages/100013-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100013-556x370.jpg",
   "ingredients": [
     "pork tenderloin",
     "thyme",
@@ -1155,7 +1155,7 @@
 },
 {
   "title": "Coconut Curry Lentils",
-  "image_url": "https://spoonacular.com/recipeImages/100014-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100014-556x370.jpg",
   "ingredients": [
     "red lentils",
     "coconut milk",
@@ -1190,7 +1190,7 @@
 },
 {
   "title": "Balsamic Glazed Brussels Sprouts",
-  "image_url": "https://spoonacular.com/recipeImages/100015-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100015-556x370.jpg",
   "ingredients": [
     "brussels sprouts",
     "olive oil",
@@ -1221,7 +1221,7 @@
 },
 {
   "title": "Classic Chicken Noodle Soup",
-  "image_url": "https://spoonacular.com/recipeImages/100016-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100016-556x370.jpg",
   "ingredients": [
     "chicken breast",
     "carrots",
@@ -1257,7 +1257,7 @@
 },
 {
   "title": "Garlic Parmesan Roasted Potatoes",
-  "image_url": "https://spoonacular.com/recipeImages/100017-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100017-556x370.jpg",
   "ingredients": [
     "baby potatoes",
     "parmesan cheese",
@@ -1288,7 +1288,7 @@
 },
 {
   "title": "Teriyaki Chicken Rice Bowl",
-  "image_url": "https://spoonacular.com/recipeImages/100018-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100018-556x370.jpg",
   "ingredients": [
     "chicken thighs",
     "soy sauce",
@@ -1320,7 +1320,7 @@
 },
 {
   "title": "Creamy Spinach Artichoke Pasta",
-  "image_url": "https://spoonacular.com/recipeImages/100019-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100019-556x370.jpg",
   "ingredients": [
     "pasta",
     "spinach",
@@ -1354,7 +1354,7 @@
 },
 {
   "title": "Lemon Blueberry Oatmeal Bake",
-  "image_url": "https://spoonacular.com/recipeImages/100020-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100020-556x370.jpg",
   "ingredients": [
     "rolled oats",
     "blueberries",
@@ -1387,7 +1387,7 @@
 },
 {
   "title": "Roasted Garlic Mashed Cauliflower",
-  "image_url": "https://spoonacular.com/recipeImages/100021-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100021-556x370.jpg",
   "ingredients": [
     "cauliflower",
     "garlic",
@@ -1419,7 +1419,7 @@
 },
 {
   "title": "Spicy Cajun Chicken Alfredo",
-  "image_url": "https://spoonacular.com/recipeImages/100022-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100022-556x370.jpg",
   "ingredients": [
     "chicken breast",
     "fettuccine",
@@ -1454,7 +1454,7 @@
 },
 {
   "title": "Vegetable Stir Fry with Ginger Soy Glaze",
-  "image_url": "https://spoonacular.com/recipeImages/100023-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100023-556x370.jpg",
   "ingredients": [
     "broccoli",
     "carrots",
@@ -1488,7 +1488,7 @@
 },
 {
   "title": "Creamy Mushroom Thyme Chicken",
-  "image_url": "https://spoonacular.com/recipeImages/100024-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100024-556x370.jpg",
   "ingredients": [
     "chicken thighs",
     "mushrooms",
@@ -1522,7 +1522,7 @@
 },
 {
   "title": "Sweet Chili Lime Shrimp Tacos",
-  "image_url": "https://spoonacular.com/recipeImages/100025-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100025-556x370.jpg",
   "ingredients": [
     "shrimp",
     "lime juice",
@@ -1555,7 +1555,7 @@
 },
 {
   "title": "Beef Stroganoff with Egg Noodles",
-  "image_url": "https://spoonacular.com/recipeImages/100026-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100026-556x370.jpg",
   "ingredients": [
     "beef sirloin",
     "egg noodles",
@@ -1590,7 +1590,7 @@
 },
 {
   "title": "Lemon Herb Quinoa Pilaf",
-  "image_url": "https://spoonacular.com/recipeImages/100027-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100027-556x370.jpg",
   "ingredients": [
     "quinoa",
     "lemon zest",
@@ -1623,7 +1623,7 @@
 },
 {
   "title": "Creamy Broccoli Cheddar Soup",
-  "image_url": "https://th.bing.com/th/id/OIP.ZpSpa4Pz_KWozLFQ2lQuygHaIO?w=208&h=231&c=7&r=0&o=7&pid=1.7&rm=3",
+  "image": "https://th.bing.com/th/id/OIP.ZpSpa4Pz_KWozLFQ2lQuygHaIO?w=208&h=231&c=7&r=0&o=7&pid=1.7&rm=3",
   "ingredients": [
     "broccoli",
     "cheddar cheese",
@@ -1658,7 +1658,7 @@
 },
 {
   "title": "Honey Mustard Glazed Pork Chops",
-  "image_url": "https://spoonacular.com/recipeImages/100029-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100029-556x370.jpg",
   "ingredients": [
     "pork chops",
     "honey",
@@ -1691,7 +1691,7 @@
 },
 {
   "title": "Blueberry Almond Breakfast Smoothie",
-  "image_url": "https://spoonacular.com/recipeImages/100030-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100030-556x370.jpg",
   "ingredients": [
     "blueberries",
     "almond milk",
@@ -1720,7 +1720,7 @@
 },
 {
   "title": "Savory Herb Roasted Turkey Breast",
-  "image_url": "https://spoonacular.com/recipeImages/100031-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100031-556x370.jpg",
   "ingredients": [
     "turkey breast",
     "olive oil",
@@ -1754,7 +1754,7 @@
 },
 {
   "title": "Creamy Garlic Parmesan Orzo",
-  "image_url": "https://spoonacular.com/recipeImages/100032-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100032-556x370.jpg",
   "ingredients": [
     "orzo pasta",
     "garlic",
@@ -1787,7 +1787,7 @@
 },
 {
   "title": "Honey Lime Chicken Bowls",
-  "image_url": "https://spoonacular.com/recipeImages/100033-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100033-556x370.jpg",
   "ingredients": [
     "chicken thighs",
     "lime juice",
@@ -1819,7 +1819,7 @@
 },
 {
   "title": "Roasted Red Pepper Gouda Soup",
-  "image_url": "https://spoonacular.com/recipeImages/100034-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100034-556x370.jpg",
   "ingredients": [
     "roasted red peppers",
     "gouda cheese",
@@ -1853,7 +1853,7 @@
 },
 {
   "title": "Crispy Lemon Pepper Wings",
-  "image_url": "https://spoonacular.com/recipeImages/100035-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100035-556x370.jpg",
   "ingredients": [
     "chicken wings",
     "lemon zest",
@@ -1885,7 +1885,7 @@
 },
 {
   "title": "Vegetable Coconut Curry Soup",
-  "image_url": "https://spoonacular.com/recipeImages/100036-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100036-556x370.jpg",
   "ingredients": [
     "coconut milk",
     "carrots",
@@ -1918,7 +1918,7 @@
 },
 {
   "title": "Baked Pesto Stuffed Shells",
-  "image_url": "https://spoonacular.com/recipeImages/100037-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100037-556x370.jpg",
   "ingredients": [
     "jumbo pasta shells",
     "ricotta cheese",
@@ -1951,7 +1951,7 @@
 },
 {
   "title": "Maple Dijon Glazed Carrots",
-  "image_url": "https://spoonacular.com/recipeImages/100038-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100038-556x370.jpg",
   "ingredients": [
     "carrots",
     "maple syrup",
@@ -1982,7 +1982,7 @@
 },
 {
   "title": "Crispy Chickpea Buddha Bowl",
-  "image_url": "https://spoonacular.com/recipeImages/100039-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100039-556x370.jpg",
   "ingredients": [
     "chickpeas",
     "quinoa",
@@ -2015,7 +2015,7 @@
 },
 {
   "title": "Garlic Herb Butter Steak Bites",
-  "image_url": "https://spoonacular.com/recipeImages/100040-556x370.jpg",
+  "image": "https://spoonacular.com/recipeImages/100040-556x370.jpg",
   "ingredients": [
     "sirloin steak",
     "garlic",

@@ -31,7 +31,7 @@ export function createFormattedValues() {
 
     const filteredValues = filterValues(recipes);
 
-    const sqlInsertStatements = `INSERT INTO recipes (title, image_url, summary, instructions) VALUES \n${filteredValues};`;
+    const sqlInsertStatements = `INSERT INTO recipes (title, image, summary, instructions) VALUES \n${filteredValues};`;
 
     const sqlFilePath = path.resolve('./seed.sql');
     fs.writeFileSync(sqlFilePath, sqlInsertStatements);

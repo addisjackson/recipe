@@ -53,7 +53,7 @@ function parseRecipes(recipes) {
 
         return {
             title,
-            image_url: image,
+            image: image,
             ingredients,
             calories,
             protein,

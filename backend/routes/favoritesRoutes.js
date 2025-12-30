@@ -1,22 +1,35 @@
 import express from "express";
 import {
-  getAllFavorites,
-  getFavoriteByTitle,
+  getFavorites,
+  getFavorite,
   createFavorite,
   updateFavorite,
   deleteFavorite,
-  toggleFavorite
+  toggleFavorite,
+  deleteFavoriteEverywhere
 } from "../controllers/favoritesController.js";
 
 const router = express.Router();
 
-router.get("/", getAllFavorites);
-router.get("/:title", getFavoriteByTitle);
-router.post("/", createFavorite);
-router.put("/:title", updateFavorite);
-router.delete("/:title", deleteFavorite);
+// GET all favorites
+router.get("/", getFavorites);
 
-// ⭐ Toggle route
+// GET one favorite by ID
+router.get("/:id", getFavorite);
+
+// CREATE favorite
+router.post("/", createFavorite);
+
+// UPDATE favorite
+router.put("/:id", updateFavorite);
+
+// DELETE favorite (favorites.json only)
+router.delete("/:id", deleteFavorite);
+
+// DELETE favorite everywhere (favorites.json + recipes.json)
+router.delete("/delete/:id", deleteFavoriteEverywhere);
+
+// TOGGLE favorite
 router.post("/toggle", toggleFavorite);
 
 export default router;

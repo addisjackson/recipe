@@ -7,7 +7,7 @@ DROP TABLE IF EXISTS recipes;
 
 CREATE TABLE IF NOT EXISTS recipes (
   recipe_id SERIAL PRIMARY KEY,
-  image_url VARCHAR(255),
+  image VARCHAR(255),
   title VARCHAR(255) NOT NULL,
   summary TEXT,
   instructions TEXT
