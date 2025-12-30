@@ -1,6 +1,7 @@
 import express from "express";
 import cors from "cors";
 import imageRoutes from "./controllers/images.js"; 
+import compression from "compression";
 import {
   getAllRecipes,
   getRecipeById,
@@ -24,9 +25,18 @@ import {
 
 const app = express();
 
-app.use(cors());
+
+app.use(cors({
+  origin: [
+    "https://addisjackson.github.io",
+    "https://addisjackson.github.io/RecipeFavs"
+  ],
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  credentials: true
+}));
 app.use(express.json());
 app.use("/images", imageRoutes);
+app.use(compression());
 /* ---------------------------------------------
 
 
